@@ -1,10 +1,27 @@
 {
-    "name": "devahoy-nodejs",
-    "version": "0.0.1",
-    "description": "Devahoy Node.js with Express 4 Tutorial",
-    "main": "index.js",
-    "dependencies": {
+  "name": "simple_api",
+  "version": "1.0.0",
+  "description": "สร้าง API ง่ายๆ ด้วย Node.js และ Express Share to Facebook Tweet expressjs",
+  "main": "index.js",
+  "dependencies": {
     "express": "^4.16.2",
     "https": "^1.0.0"
-  }
+  },
+   "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Somprasong Sittisorn",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalmonkung/simple_api.git"
+  },
+  "author": "Somprasong Sittisorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zalmonkung/simple_api/issues"
+  },
+  "homepage": "https://github.com/zalmonkung/simple_api#readme"
 }
